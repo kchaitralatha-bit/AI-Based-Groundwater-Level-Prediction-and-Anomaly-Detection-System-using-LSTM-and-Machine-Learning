@@ -1,11 +1,11 @@
-AI-Based Groundwater Level Prediction and Anomaly Detection System using LSTM and Machine Learning
-Project Overview
+## AI-Based Groundwater Level Prediction and Anomaly Detection System using LSTM and Machine Learning
+# Project Overview
 
 Groundwater is a critical natural resource used for agriculture, drinking water, and industrial purposes. Monitoring and predicting groundwater levels is essential for effective water resource management.
 
 This project develops an artificial intelligence based system to predict groundwater levels using the Long Short-Term Memory (LSTM) deep learning model and detect anomalies using machine learning techniques. The system analyzes historical groundwater data to forecast future groundwater levels and identify abnormal patterns that may indicate sensor errors or unexpected environmental changes.
 
-Objectives
+# Objectives
 
 Predict groundwater levels using deep learning techniques.
 
@@ -15,7 +15,7 @@ Detect anomalies and irregular fluctuations in groundwater levels.
 
 Support water resource planning and management through predictive analysis.
 
-Techniques Used
+# Techniques Used
 LSTM (Long Short-Term Memory)
 
 LSTM is a type of recurrent neural network designed to model sequential and time series data. It is widely used for forecasting tasks where historical trends influence future outcomes.
@@ -32,23 +32,7 @@ Machine Learning for Anomaly Detection
 
 Machine learning algorithms are applied to identify unusual patterns in the groundwater data. These anomalies may represent sensor failures, extreme environmental events, or data inconsistencies.
 
-Project Structure
-AI-Based-Groundwater-Level-Prediction/
-│
-├── dataset/
-│   └── groundwater_data.csv
-│
-├── notebooks/
-│   └── groundwater_prediction.ipynb
-│
-├── models/
-│   └── lstm_model.h5
-│
-├── results/
-│   └── prediction_graphs.png
-│
-└── README.md
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -94,7 +78,7 @@ Detection of abnormal patterns
 
 Model performance evaluation
 
-How to Run the Project
+# How to Run the Project
 Clone the Repository
 git clone https://github.com/kchaitralatha-bit/AI-Based-Groundwater-Level-Prediction-and-Anomaly-Detection-System-using-LSTM-and-Machine-Learning.git
 Navigate to the Project Directory
@@ -118,18 +102,14 @@ Environmental data analysis
 
 Smart water management systems
 
-Future Improvements
+# Dataset
+The dataset used in this project is obtained from publicly available groundwater and environmental datasets.
 
-Integration with real-time groundwater sensors
 
-Deployment as a web-based monitoring system
+# Author
 
-Implementation of additional forecasting models
-
-Development of an interactive visualization dashboard
-
-Dataset
-
+Chaitra Latha
+GitHub: https://github.com/kchaitralatha-bit
 The dataset used in this project is obtained from publicly available groundwater and environmental datasets.
 
 Author
